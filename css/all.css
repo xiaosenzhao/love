@@ -802,7 +802,7 @@ button {
     background-color: #fbf7d1
 }
 .page-15 {
-    background: url(../img/iali45_bg.jpg) #dcf2fa
+    background: url(http://p5f4bthqn.bkt.clouddn.com/iali45_bg.jpg) #dcf2fa
 }
 .page-16 {
     background-color: #7db6df
@@ -811,7 +811,7 @@ button {
     background-color: #e5f0f2
 }
 .page-19 {
-    background-image: url(../img/iali75_bg.jpg)
+    background-image: url(http://p5f4bthqn.bkt.clouddn.com/iali75_bg.jpg)
 }
 .page-19 h3 {
     margin-bottom: 2em
@@ -824,7 +824,7 @@ button {
     left: 4em
 }
 .page-21 {
-    background: url(../img/iali59_bg.jpg) #fbf2a3
+    background: url(http://p5f4bthqn.bkt.clouddn.com/iali59_bg.jpg) #fbf2a3
 }
 .page-22 {
     background-color: #f5d484
@@ -849,7 +849,7 @@ button {
     text-align: center
 }
 .page-28 {
-    background: url(../img/iali40_bg.jpg) bottom repeat-x #b7e7f3;
+    background: url(http://p5f4bthqn.bkt.clouddn.com/iali40_bg.jpg) bottom repeat-x #b7e7f3;
     padding: 0
 }
 .page-28 img {
@@ -880,7 +880,7 @@ button {
     color: #eef
 }
 .page-30 {
-    background: url(../img/iali76_bg.png) center bottom repeat-x #fff;
+    background: url(http://p5f4bthqn.bkt.clouddn.com/iali76_bg.png) center bottom repeat-x #fff;
     padding: 0
 }
 .page-31 {
@@ -902,13 +902,13 @@ button {
     font-size: 2em
 }
 .page-34 {
-    background: url(../img/iali57.jpg) left bottom no-repeat #94c2e3
+    background: url(http://p5f4bthqn.bkt.clouddn.com/iali57.jpg) left bottom no-repeat #94c2e3
 }
 .page-34 h3 {
     color: #fff
 }
 .page-35 {
-    background: url(../img/iali8_bg.png) left bottom repeat-x #fff;
+    background: url(http://p5f4bthqn.bkt.clouddn.com/iali8_bg.png) left bottom repeat-x #fff;
     padding: 0
 }
 .page-35 img {
@@ -943,7 +943,7 @@ button {
     background-color: #fff8f2
 }
 .page-39 {
-    background: url(../img/iali2_bg.jpg) #e8ccc1
+    background: url(http://p5f4bthqn.bkt.clouddn.com/iali2_bg.jpg) #e8ccc1
 }
 .page-40 {
     background-color: #cde7f4
@@ -1063,7 +1063,7 @@ button {
     z-index: 999
 }
 .page-51 {
-    background-image: url(../img/iali52.jpg);
+    background-image: url(http://p5f4bthqn.bkt.clouddn.com/iali52.jpg);
     background-size: cover;
     background-color: #fff;
     text-align: left
@@ -1082,14 +1082,14 @@ button {
     background-color: #febebe
 }
 .page-54 {
-    background: url(../img/319280_bg.jpg) #d3d2d0
+    background: url(http://p5f4bthqn.bkt.clouddn.com/319280_bg.jpg) #d3d2d0
 }
 .page-55,
 .write-tip {
     background-color: #fff
 }
 .page-54 .center-img {
-    background-image: url(../img/319280.jpg);
+    background-image: url(http://p5f4bthqn.bkt.clouddn.com/319280.jpg);
     text-indent: -99999px
 }
 .page-54 h3 {
@@ -1252,9 +1252,9 @@ button {
     opacity: 1
 }
 #on {
-    background: url(../img/music.png) left center no-repeat
+    background: url(http://p5f4bthqn.bkt.clouddn.com/music.png) left center no-repeat
 }
 #off {
-    background: url(../img/mute.png) left center no-repeat;
+    background: url(http://p5f4bthqn.bkt.clouddn.com/music.png) left center no-repeat;
     display: none
 }
